@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=David+Libre&display=swap');
 @import url('//basehold.it/25');
 
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -10,7 +10,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 html{
-  font-family: Times, Georgia;
+  font-family: Times, Georgia, 'David Libre';
   font-size: 21px;
   line-height: 24px;
 }
