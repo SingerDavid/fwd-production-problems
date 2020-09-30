@@ -11,6 +11,6 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 html{
   font-family: Times, Georgia, 'David Libre';
-  font-size: 21px;
-  line-height: 24px;
+  font-size: 1.313em; /* 21px / 16px = 1.313em */
+  line-height: 1.14285714em; /* 24px / 21px = 1.14285714em */
 }
