@@ -17,6 +17,7 @@ html{
 
 nav li{
   padding-top: 1.19047619em; /* 25px / 21px = 1.19047619em */
+  text-align: left;
   display: inline-block;
 }
 
