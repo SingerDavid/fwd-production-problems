@@ -15,6 +15,11 @@ html{
   line-height: 1.19047619em; /* 25px / 21px = 1.19047619em */
 }
 
+nav li{
+  padding-top: 1.19047619em; /* 25px / 21px = 1.19047619em */
+  display: inline-block;
+}
+
 h2{
   padding-top: 1.19047619em; /* 25px / 21px = 1.19047619em */
   font-weight: 800;
