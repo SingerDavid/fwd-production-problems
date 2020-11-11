@@ -28,7 +28,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* ==== LAYOUT STYLES ==== */
 #content {
-
+  display: flex;
+  flex-direction: column-reverse;
+  font-size: 10vh;
+  text-align: center;
 }
 
 #three,
