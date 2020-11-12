@@ -55,7 +55,18 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   }
 }
 
-
 @media screen and (min-width: 800px) {
-
+  #content{
+  display: inline-flex;
+  flex-flow: row-reverse;
+  }
+  #three,
+  #two,
+  #one {
+  width: 33.33333vw;
+  height: 20vh;
+  }
+  #three {
+    order: -2;
+  }
 }
