@@ -1,7 +1,7 @@
 /*
   Step 1. Correct the variable scope so that the console.log()
   call outputs the correct value for x (5). You must still use
-  `x` as the variable inside the function, however.
+  `x` as the variable inside the function, however. test
 */
 
 x = 5;
